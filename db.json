@@ -1,0 +1,41 @@
+[
+    {
+        "tags": [
+            "art",
+            "design",
+            "lifestyle",
+            "tech",
+            "science"
+        ],
+        "articles": [
+            {
+                "id": 1,
+                "title": "La inmensidad del cosmos",
+                "author": "Margarita",
+                "tags": ["science", "tech"],
+                "brief": "No estamos solos en el universo.",
+                "article-content": "",
+                "comments": []
+            },
+            {
+                "id": 2,
+                "title": "Tu niño interior",
+                "author": "Rosa",
+                "tags": ["lifestyle"],
+                "brief": "Escúchalo y te dirá lo que de verdad necesitas.",
+                "article-content": "",
+                "comments": []
+            },
+            {
+                "id": 3,
+                "title": "Art & Design Expo BCN",
+                "author": "Jacinto",
+                "tags": ["art", "design", "lifestyle"],
+                "brief": "¿Te la perdiste? No te preocupes: te lo contamos todo.",
+                "article-content": "",
+                "comments": []
+            }
+
+        ]
+    }
+]
